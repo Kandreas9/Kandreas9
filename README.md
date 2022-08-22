@@ -14,5 +14,4 @@ I am Smor aka Kandreas9.
 🚀 Pushed 1 commit to Kandreas9/true-self-server
 🚀 Pushed 1 commit to Kandreas9/true-self-server
 🚀 Pushed 1 commit to Kandreas9/true-self-client
-🚀 Pushed 1 commit to Kandreas9/small-smor-portfolio
 ```
