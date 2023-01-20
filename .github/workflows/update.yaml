@@ -1,28 +1,28 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: '0 13 * * 1'
-  [workflow_dispatch]
+    schedule:
+        - cron: "0 13 * * 1"
+    workflow_dispatch:
 
 jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout sources
-        uses: actions/checkout@v2
-        with:
-          persist-credentials: false
-          fetch-depth: 0
+    update:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout sources
+              uses: actions/checkout@v2
+              with:
+                  persist-credentials: false
+                  fetch-depth: 0
 
-      - name: Dynamic Profile README
-        uses: Kandreas9/dynamic-profile-readme@v0.1.4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: Kandreas9
-          template: TEMPLATE.md
+            - name: Dynamic Profile README
+              uses: Kandreas9/dynamic-profile-readme@v0.1.4
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  username: Kandreas9
+                  template: TEMPLATE.md
 
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Commit & Push changes
+              uses: actions-js/push@master
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
