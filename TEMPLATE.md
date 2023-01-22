@@ -7,3 +7,9 @@ I am Smor aka Kandreas9.
 ```
 <!--GITHUB_ACTIVITY-->
 ```
+
+### My Language Stats:
+
+```
+<!--GITHUB_LANGUAGES-->
+```
