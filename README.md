@@ -5,7 +5,16 @@ I am Smor aka Kandreas9.
 ### My Activity:
 
 ```
-<!--GITHUB_ACTIVITY-->
+🚀 Pushed 2 commits to Kandreas9/Kandreas9
+✨ v0.9.1 of Kandreas9/dynamic-profile-readme was published.
+🚀 Pushed 1 commit to Kandreas9/dynamic-profile-readme
+🚀 Pushed 2 commits to Kandreas9/Kandreas9
+✨ v0.9 of Kandreas9/dynamic-profile-readme was published.
+🚀 Pushed 1 commit to Kandreas9/dynamic-profile-readme
+🚀 Pushed 1 commit to Kandreas9/dynamic-profile-readme
+🚀 Pushed 1 commit to Kandreas9/Kandreas9
+🚀 Pushed 1 commit to Kandreas9/Kandreas9
+🚀 Pushed 1 commit to Kandreas9/dynamic-profile-readme
 ```
 
 ### My Language Stats:
