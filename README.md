@@ -5,22 +5,22 @@ I am Smor aka Kandreas9.
 ### My Activity:
 
 ```
-🚀 Pushed 1 commit to Kandreas9/mcd-model
-🚀 Pushed 1 commit to Kandreas9/mcd-model
-🚀 Pushed 1 commit to Kandreas9/mcd-model
-🚀 Pushed 1 commit to Kandreas9/mcd-model
-🚀 Pushed 1 commit to Kandreas9/mcd-model
-🚀 Pushed 1 commit to Kandreas9/mcd-model
 🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
 🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
 🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
 🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
+🚀 Pushed 1 commit to Kandreas9/mcd-model
+🚀 Pushed 1 commit to Kandreas9/mcd-model
+🚀 Pushed 1 commit to Kandreas9/mcd-model
+🚀 Pushed 1 commit to Kandreas9/mcd-model
+🚀 Pushed 1 commit to Kandreas9/mcd-model
+🚀 Pushed 1 commit to Kandreas9/mcd-model
 ```
 
 ### My Language Stats:
 
 ```
-JavaScript 0% ========================================                               100%
+JavaScript 0% =======================================                                100%
 Svelte     0% ================                                                       100%
 TypeScript 0% ======                                                                 100%
 CSS        0% =====                                                                  100%
