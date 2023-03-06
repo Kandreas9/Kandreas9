@@ -5,25 +5,25 @@ I am Smor aka Kandreas9.
 ### My Activity:
 
 ```
-🚀 Pushed 1 commit to Kandreas9/dengoose
-🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
-🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
-🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
-🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
-🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
-🚀 Pushed 1 commit to Kandreas9/mcd-model
-🚀 Pushed 1 commit to Kandreas9/mcd-model
-🚀 Pushed 1 commit to Kandreas9/mcd-model
-🚀 Pushed 1 commit to Kandreas9/mcd-model
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
+🚀 Pushed 1 commit to Kandreas9/smor-portfolio-os
 ```
 
 ### My Language Stats:
 
 ```
-JavaScript 0% ====================================                                   100%
-Svelte     0% ===============                                                        100%
-Lua        0% =======                                                                100%
-TypeScript 0% ======                                                                 100%
+JavaScript 0% =================================                                      100%
+Svelte     0% ====================                                                   100%
+Lua        0% ======                                                                 100%
+TypeScript 0% =====                                                                  100%
 CSS        0% ====                                                                   100%
 HTML       0% ===                                                                    100%
 Vue        0% ==                                                                     100%
