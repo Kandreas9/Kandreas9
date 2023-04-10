@@ -5,6 +5,7 @@ I am Smor aka Kandreas9.
 ### My Activity:
 
 ```
+🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
 🌈 The repo Kandreas9/job-organiser was made public!!
 🚀 Pushed 1 commit to Kandreas9/snake-game
 🚀 Pushed 1 commit to Kandreas9/projet-bdd
