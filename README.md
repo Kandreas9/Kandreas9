@@ -5,6 +5,9 @@ I am Smor aka Kandreas9.
 ### My Activity:
 
 ```
+🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
+🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
+🚀 Pushed 2 commits to Kandreas9/infopediaparents-client
 🚀 Pushed 3 commits to Kandreas9/i-closet
 🚀 Pushed 1 commit to Kandreas9/lang-friends
 🚀 Pushed 1 commit to Kandreas9/lang-friends
@@ -12,16 +15,13 @@ I am Smor aka Kandreas9.
 🚀 Pushed 1 commit to Kandreas9/lang-friends
 🚀 Pushed 5 commits to Kandreas9/lang-friends
 🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
-🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
-🚀 Pushed 1 commit to Kandreas9/oop-projet
-🚀 Pushed 6 commits to Kandreas9/oop-projet
 ```
 
 ### My Language Stats:
 
 ```
-JavaScript 0% =================================                                      100%
-Svelte     0% ================                                                       100%
+JavaScript 0% ==================================                                     100%
+Svelte     0% ===============                                                        100%
 Lua        0% =======                                                                100%
 Python     0% =====                                                                  100%
 TypeScript 0% ====                                                                   100%
