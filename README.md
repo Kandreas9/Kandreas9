@@ -5,14 +5,14 @@ I am Smor aka Kandreas9.
 ### My Activity:
 
 ```
+🚀 Pushed 1 commit to Kandreas9/job-organiser
+🚀 Pushed 1 commit to Kandreas9/job-organiser
+🚀 Pushed 1 commit to Kandreas9/job-organiser
 🚀 Pushed 1 commit to Kandreas9/infopediaparents-client
 🚀 Pushed 1 commit to Kandreas9/snake-game
 🚀 Pushed 2 commits to Kandreas9/snake-game
 🚀 Pushed 1 commit to Kandreas9/snake-game
 🚀 Pushed 6 commits to Kandreas9/snake-game
-🚀 Pushed 1 commit to Kandreas9/lang-friends
-🚀 Pushed 1 commit to Kandreas9/lang-friends
-🚀 Pushed 1 commit to Kandreas9/lang-friends
 🚀 Pushed 1 commit to Kandreas9/lang-friends
 🚀 Pushed 1 commit to Kandreas9/lang-friends
 ```
