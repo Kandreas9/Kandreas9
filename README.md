@@ -5,7 +5,7 @@ I am Smor aka Kandreas9.
 ### My Activity:
 
 ```
-### The github action for this is broken, i will fix soon
+The github action for this is broken, i will fix soon
 ```
 
 ### My Language Stats:
